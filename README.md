@@ -2,6 +2,7 @@
 header only C++ BigInt
 
 # usage example
+```cpp
 int main()
 {
     int N=0;
@@ -39,3 +40,4 @@ int main()
 
     return 0;
 }
+```
