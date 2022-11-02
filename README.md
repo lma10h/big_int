@@ -1,5 +1,7 @@
 # big_int
-header only C++ BigInt
+header only C++ BigInt, copy and enjoy! :)
+
+Thanks, https://e-maxx.ru/algo/big_integer;
 
 # usage example
 ```cpp
